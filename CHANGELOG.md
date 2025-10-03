@@ -18,3 +18,9 @@
 - planned sprint 1 backlog (6 items that included some login and watchlist)
 - captured backlog and sprint board screenshots
 - recorded week 3 stakeholder update video
+
+10/2/25 Week 4
+- identified 12 project risks across techincal, schedule, financial, and people
+- built risk register with probability, impact, response, and owner roles
+- finalized communication plan
+- record week 4 stakeholder update video
