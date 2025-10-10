@@ -24,3 +24,10 @@
 - built risk register with probability, impact, response, and owner roles
 - finalized communication plan
 - record week 4 stakeholder update video
+
+10/9/25 Week 5
+- defined 8 project roles that are subject to change (pm, 2 frontend devs, 2 backend devs, database/qa engineer, ux designer), devops engineer)
+- created roles & resources table with estimated hours, fte %, and hourly rates
+- developed bottom-up resource and cost plan
+- added monthy cash flow table and raci matrix
+- record week 5 stakeholder update video
