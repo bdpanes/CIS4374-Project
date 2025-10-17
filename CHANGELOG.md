@@ -31,3 +31,13 @@
 - developed bottom-up resource and cost plan
 - added monthy cash flow table and raci matrix
 - record week 5 stakeholder update video
+
+10/16/25 Week 6
+- added new user story
+- added use case section that was left incomplete in week 1
+    - use case1: add bond to ladder
+    - use case2: reinvest maturing bond
+    - use case3: place stock buy order
+- added stakeholder responsibilities to communication plan
+- documented individual stakeholder roles
+- record week 5 stakeholder update video
