@@ -40,4 +40,10 @@
     - use case3: place stock buy order
 - added stakeholder responsibilities to communication plan
 - documented individual stakeholder roles
-- record week 5 stakeholder update video
+- record week 6 stakeholder update video
+
+10/30/25 Week 7
+- added power-interest grid in table form to outline stakeholder influence
+- created team charter -- defined mission, scope, goal, team norms, and comm plan
+- added project charter -- problem, goal, scope, risks, milestones
+- record week 7 stakeholder update video
