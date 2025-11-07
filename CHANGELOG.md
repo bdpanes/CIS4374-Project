@@ -47,3 +47,11 @@
 - created team charter -- defined mission, scope, goal, team norms, and comm plan
 - added project charter -- problem, goal, scope, risks, milestones
 - record week 7 stakeholder update video
+
+11/06/25 Week 8
+- completed project closure report
+    - added exec summary
+    - added achievements and shortfalls
+    - added lessons learned and recommendations for future projects
+- created post-mortem case study on google stadia (2019-2023)
+- record week 8 stakeholder update video
