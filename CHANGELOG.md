@@ -55,3 +55,9 @@
     - added lessons learned and recommendations for future projects
 - created post-mortem case study on google stadia (2019-2023)
 - record week 8 stakeholder update video
+
+11/20/25 Week 9
+- added market research and competitor analysis under intro of srs
+- expanded backlog with clearer detailing of login, watchlist, buy/sell, and reporting items
+- added maintenance and scaling proposal to project closure report outlining next steps for moving mvp to a more production-ready tool
+- record week 9 stakeholder update video
